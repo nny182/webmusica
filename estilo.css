@@ -1,0 +1,29 @@
+body {
+    background-image: url("../assets/fondocompuc.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#boton {
+  font-size: 1.8em;
+  background-color: transparent;
+  margin-bottom: none;
+  border-style:none;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  position: absolute;
+  bottom: 27.5%;
+  right: 45%;
+}
+
+a:link{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 100;
+    display:inline-block;
+    color: aliceblue;
+}

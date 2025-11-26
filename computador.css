@@ -1,0 +1,64 @@
+body {
+    background-image: url("../assets/fondoange.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.album{
+    border-radius: 8%;
+    box-shadow: 18px 2px 70px rgba(239, 218, 180, 0.723);
+}
+
+#billie{
+    height: 200px;
+    width: auto;
+    position: absolute;
+    top: 33%;
+    left: 33.2%;
+}
+
+#maneskin{
+    height: 350px;
+    width: auto;
+    position: absolute;
+    top: 47%;
+    left: 11%;
+}
+
+#solene{
+    height: 150px;
+    width: auto;
+    position: absolute;
+    top: 21%;
+    right: 16%;
+}
+
+#maria{
+    height: 300px;
+    width:auto;
+    position: absolute;
+    top: 58%;
+    right: 27%;
+}
+
+#warning{
+    height: 270px;
+    width:auto;
+    position: absolute;
+    top: 16%;
+    right: 43%;
+}
+
+.nombres{
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    font-style: oblique;
+}
+
+#album-billie{
+    position: absolute;
+    top: 
+}
